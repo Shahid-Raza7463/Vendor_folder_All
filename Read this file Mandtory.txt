@@ -1,0 +1,1 @@
+Whenever you need to push another project to Git, first delete the .git file, then run the git init command again
